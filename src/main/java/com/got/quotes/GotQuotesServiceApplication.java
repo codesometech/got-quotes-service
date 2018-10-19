@@ -1,4 +1,4 @@
-package com.got.quotes.gotquotesservice;
+package com.got.quotes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
